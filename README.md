@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jacksteamdev-mcp-sqlite-bun-server-badge.png)](https://mseep.ai/app/jacksteamdev-mcp-sqlite-bun-server)
+
 # SQLite MCP Server
 
 ## Overview
